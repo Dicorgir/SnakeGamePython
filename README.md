@@ -9,17 +9,6 @@ Este proyecto es una versión visualmente atractiva del juego tradicional, con i
 
 ---
 
-## 🎮 Capturas de pantalla
-
-> *(Asegúrate de subir imágenes como `gameplay.png`, `gameover.png`, etc., para que esto funcione bien)*
-
-<p align="center">
-  <img src="img/gameplay.png" width="400" alt="Gameplay">
-  <img src="img/gameover.png" width="400" alt="Game Over">
-</p>
-
----
-
 ## 🚀 Características
 
 - ✅ Gráficos personalizados (cabeza, cuerpo, comida y fondo)
