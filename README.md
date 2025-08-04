@@ -34,3 +34,26 @@ Este proyecto es una versión visualmente atractiva del juego tradicional, con i
 
 ## 📁 Estructura del Proyecto
 
+Snake-Game/
+│
+├── img/
+│ ├── cabeza_serpiente.png
+│ ├── pelota.png
+│ ├── manzana.png
+│ ├── fondo.jpg
+│ └── fondoMuerte.png
+│
+├── main.py
+└── README.md
+
+---
+
+## 🛠️ Requisitos
+
+- Python
+- Pygame
+
+Puedes instalar `pygame` con:
+
+```bash
+pip install pygame
